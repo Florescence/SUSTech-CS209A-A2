@@ -1,4 +1,5 @@
 package cn.edu.sustech.cs209.chatting.client;
+
 import cn.edu.sustech.cs209.chatting.common.User;
 import javafx.application.Application;
 import javafx.collections.ObservableList;
